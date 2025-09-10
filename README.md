@@ -1,3 +1,4 @@
 # FirstRepo
 this is my imp repo
-<!-- TIJJIJII -->
+<!-- github notes -->
+<!-- for cloning in github we use git clone  -->
